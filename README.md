@@ -1,5 +1,9 @@
-# Capacity Building for GIS-based SDG Indicator Analysis with Global High-resolution Land Cover Datasets
+# Monitoring of Sustainability Indicators with Geospatial Data
 
-This is the documentation of the online WebBook created for the *Capacity Building for GIS-based SDG Indicator Analysis with Global High-resolution Land Cover Datasets* project supported by the [ISPRS Education and Capacity Building Initiatives 2022](https://www.isprs.org/society/ecbi/default.aspx) of the [International Society of Photogrammetry and Remote Sensing (ISPRS)](https://www.isprs.org).
+Learning Outcomes:  
+The students:
+•	understand the potential of geospatial data for monitoring Sustainable Development Goals (SDGs);
+•	be able to apply geospatial methodologies to calculate several sustainability indicators;
+•	develop skills to retrieve, handle and analyse geospatial data.
 
-See the WebBook at https://isprs-gis-sdg.readthedocs.io.
+
