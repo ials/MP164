@@ -23,6 +23,7 @@ author = 'Ivan Lizarazo'
 
 
 # -- General configuration ---------------------------------------------------
+
 import sphinx_rtd_theme
 
 # Add any Sphinx extension module names here, as strings. They can be
@@ -59,7 +60,7 @@ exclude_patterns = ['_build', 'Thumbs.db', '.DS_Store']
 # The theme to use for HTML and HTML Help pages.  See the documentation for
 # a list of builtin themes.
 #
-html_theme = 'sphinx_rtd_theme'
+html_theme = "sphinx_rtd_theme"
 
 html_logo = './img/LOGO.png'
 
