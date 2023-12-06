@@ -1,0 +1,13 @@
+This is a test page
+==========================================
+
+To be written [#f2]_.
+
+Key global `geospatial data <https://en.wikipedia.org/wiki/Geographic_data_and_information>`_    
+
+.. rubric:: Footnotes
+
+.. [#f0] United Nations (2017). Resolution adopted by the General Assembly on 6 July 2017. Technical Report A/RES/71/313. 
+.. [#f1] Inter-Agency and Expert Group on the Sustainable Development Goal Indicators (2019). WORKING GROUP ON GEOSPATIAL INFORMATION Terms of Reference. 
+.. [#f2] Carter, S. L., Herold, M. (2019). Specifications of land cover datasets for SDG indicator monitoring.   
+.. [#f3] European Space Agency (2020). Compendium of Earth Observation contributions to the SDG Targets and Indicator. 
