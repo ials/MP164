@@ -29,8 +29,8 @@ In view of the above, this course, supported by the `SDGnexus Network <https://w
    
    credits
 
-.. important:: This project was funded by the `International Society of Photogrammetry and Remote Sensing (ISPRS) <https://www.isprs.org>`_ within the `Educational and Capacity Building Initiative 2022 <https://www.isprs.org/society/ecbi/default.aspx>`_.
+.. important:: This course was sponsored by the `SDGnexus Network <https://www.uni-giessen.de/de/fbz/zentren/zeu/sdgnexus>`.
 
-.. note:: All materials in this web-book are from public literature and the Internet. Unintended use herein of the copyrighted material is purely for educational purposes
+.. note:: A lot of material in this course come the Capacity Building for GIS-based SDG Indicator Analysis with Global High-resolution Land Cover Datasets project (ISPRS). 
 
 License `Creative Commons Attribution 4.0 License (CC BY 4.0) <https://creativecommons.org/licenses/by/4.0/>`_
