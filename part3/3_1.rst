@@ -12,5 +12,5 @@ GEE has a vast catalog on a petabyte scale. It gathers information from Landsat,
 
 	GEE could platform summary
 
-.. IMPORTANT:: You can learn more about GEE ` here <https://earthengine.google.com/>`_ .
+.. IMPORTANT:: You can learn more about GEE `here <https://earthengine.google.com/>`_ .
 

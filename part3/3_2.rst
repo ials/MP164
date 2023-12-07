@@ -22,6 +22,6 @@ The Code Editor has the following elements (illustrated in Figure 3.2.1):
 
 	Diagram of components of the Earth Engine Code Editor at code.earthengine.google.com.
 
-.. IMPORTANT:: You can learn more about the GEE Code Editor ` here <https://developers.google.com/earth-engine/guides/playground>`_ .
+.. IMPORTANT:: You can learn more about the GEE Code Editor `here <https://developers.google.com/earth-engine/guides/playground>`_ .
 
 
