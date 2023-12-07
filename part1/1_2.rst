@@ -8,7 +8,10 @@ Data is available for many indicators, but there are still gaps. We hope this co
 The original SDG Tracker was published in 2018, and this revised version was launched in 2023. Authors state that they will keep this up-to-date with the most recent data and SDG developments through the end of the 2030 Agenda.
 
 
+.. _1.1.1:
+.. figure:: /img/1.2/1.2.1.png
 
+	Sustainable Development Goals. Source: https://www.un.org/en/sustainable-development-goals
 
 
 
