@@ -11,6 +11,8 @@ In this case study we'll be working on calculating the indicator for Suriname fo
 
 The first step is to access a GEE app available `here https://rayoly.users.earthengine.app/view/unsdg1511>`_ (:numref:`4.1.1`).
 
+The GEE Code Editor will show up. The Map will show a region in Africa:
+
 
 .. _4.1.1:
 .. figure:: /img/4.1/4.1.1.png
