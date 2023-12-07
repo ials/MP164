@@ -7,7 +7,7 @@ The method of computation is given by the following formula:
 :math:`\frac{\text{Forest area (reference year)}}{\text{Land area (reference year)}} * 100`,
 
 thus we need to first define the region and reference year for which the indicator needs to be calculated. After that, we need to estimate the forest area and land area of the region. 
-In this case study we'll be working on calculating the indicator for Suriname for the reference year 2019.
+In this case study we'll be working on calculating the indicator for a region in Colombia for the reference year 2019.
 
 The first step is to access a GEE app available `here https://rayoly.users.earthengine.app/view/unsdg1511>`_ (:numref:`4.1.1`).
 
@@ -17,7 +17,7 @@ The GEE Code Editor will show up. The Map will show a region in Africa:
 .. _4.1.1:
 .. figure:: /img/4.1/4.1.1.png
 	:align: center
-	:width: 400px
+	:width: 800px
 
 	Entry page of the *unsdg1511* app.
 
@@ -28,7 +28,7 @@ The figure (:numref:`4.1.2`) shows the results for a region in Colombia:
 .. _4.1.2:
 .. figure:: /img/4.1/4.1.2.png
 	:align: center
-	:width: 400px
+	:width: 800px
 
 	Forest area change from 2000 to 2019 for *Departamento de Caqueta* in Colombia.
 
