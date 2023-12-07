@@ -1,16 +1,16 @@
-QGIS
+Google Earth Engine (GEE)
 ========================================================
 
-Among the available free and open-source GIS software, `QGIS <https://docs.qgis.org/3.16/en/docs/index.html>`_ is the most popular and widely used desktop GIS application. The development of QGIS (formerly Quantum GIS) started in early 2002 and it is still ongoing thanks to the collaborative effort of a large community of developers and users, under the advocacy of the `Open Source Geospatial Foundation <https://www.osgeo.org>`_ (OSGeo). QGIS runs on Unix, MacOSX, and Microsoft Windows operating systems. The software is periodically updated through regular releases and bug fixes from volunteer developers coordinated by the `QGIS project board <https://www.qgis.org/en/site/getinvolved/governance/governance.html>`_.
-QGIS provides a user-friendly graphical user interface (:numref:`3.1.1`) and it supports a variety of data types and formats as well as connection to online GIS resources through `OGC service <https://www.ogc.org/>`_. Many functionalities for map creation and spatial data analysis are integrated into QGIS and can be accessed directly from the software interface. The possibility of accessing the source code allows for adapting the software as needed for specific GIS tasks. Furthermore, QGIS integrates with `other free and open-source GIS packages <https://docs.qgis.org/3.16/en/docs/user_manual/processing/3rdParty.html>`_ that enable users to extend the capabilities of the software also without any programming skill.
-QGIS software can be downloaded from the `official QGIS website <https://qgis.org>`_ by selecting among the available installation packages the one for your operative system. It is always suggested to work with the Long Term Release (LTR) version of the software which is the current stable and best-maintained release of QGIS. 
+Google Earth Engine (GEE) is a cloud-based computing platform that uses Google’s infrastructure to facilitate access to geospatial data and its processing. This platform requires an account to access, and it is free for educational and research purposes. GEE’s goals are: (i) to have a dynamic platform that facilitates the development of algorithms on a large scale; (ii) to promote high-impact research by providing free and open access; and (iii) to be part of the progress and solutions to the global demand and management of big data.
+
+GEE has a vast catalog on a petabyte scale. It gathers information from Landsat, Sentinel, and MODIS satellites and data on climate models, temperature, and geophysical characteristics. Its intuitive interface has a code editor (https://code.earthengine.google.com/), which is an integrated development environment (IDE) for the elaboration of algorithms using JavaScript programming language. It also has a graphic window for the user to see the processes conducted. In addition, it can also work in Phyton, and others through the Earth Engine library, and R. Finally, it also has a version with a simple interface known as “Explorer” (https://explorer.earthengine.google.com/#workspace) for users with little experience in programming languages. Both options allow the entry of local data and the export of information for subsequent processing or visualization within geographic information systems (GIS) software, such as QGIS, and ArcGIS Pro, among others.
 
 .. _3.1.1:
 .. figure:: /img/3.1/3.1.1.png
 	:align: center
 	:width: 700px
 
-	QGIS main graphical user interface with logo
+	GEE could platform summary
 
-.. IMPORTANT:: The reference version for this webbook is QGIS 3.22. You can `download and install QGIS <https://qgis.org/en/site/forusers/download.html>`_ on your computer to develop the hands-on exercises proposed in the next section (the QGIS LTR version is suggested).
+.. IMPORTANT:: You can learn more about GEE ` here <https://qgis.org/en/site/forusers/download.html>`_ .
 
