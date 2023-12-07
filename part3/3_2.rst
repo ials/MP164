@@ -1,41 +1,27 @@
-Key QGIS functionalities for SDG indicators computation 
+Earth Engine Code Editor
 ====================================================================
 
-QGIS provides thousands of functionalities and plugins to manipulate and analyze geospatial data. For the computation of SDG indicators using global geospatial datasets, a few key functionalities are needed. A selection of the most relevant ones is reported in :numref:`3.2.1`. The full set of QGIS functionalities can be found in the official `QGIS User Guide <https://docs.qgis.org/3.22/en/docs/user_manual/index.html>`_. 
+The Earth Engine (EE) Code Editor at code.earthengine.google.com is a web-based IDE for the Earth Engine JavaScript API. Code Editor features are designed to make developing complex geospatial workflows fast and easy. 
+
+The Code Editor has the following elements (illustrated in Figure 3.2.1):
+
+- JavaScript code editor
+- Map display for visualizing geospatial datasets
+- API reference documentation (Docs tab)
+- Git-based Script Manager (Scripts tab)
+- Console output (Console tab)
+- Task Manager (Tasks tab) to handle long-running queries
+- Interactive map query (Inspector tab)
+- Search of the data archive or saved scripts
+- Geometry drawing tools
 
 .. _3.2.1:
-.. list-table:: Selection of QGIS functionalities for SDG indicators computation
-   :widths: 10 10 10
-   :header-rows: 1
+.. figure:: /img/3.2/3.2.1.png
+	:align: center
+	:width: 700px
 
-   * - Function
-     - Description
-     - Link
-   * - Vector and raster data import, |br| coordinate reference system management |br| and layer symbology
-     - Basic QGIS operations for data I/O |br| and map visualization
-     - https://docs.qgis.org/3.22/en/docs/user_manual/introduction/getting_started.html#sample-session-loading-raster-and-vector-layers
-   * - Vector feature selections
-     - Selection/extraction of data |br| subsets from vector layers based |br| on user-selected rules
-     - https://docs.qgis.org/3.22/en/docs/user_manual/introduction/general_tools.html#interacting-with-features 
-   * - Vector attribute table manipulation
-     - Editing tools for vector layers |br| attribute table 
-     - https://docs.qgis.org/3.22/en/docs/user_manual/working_with_vector/attribute_table.html 
-   * - Vector geoprocessing
-     - Geometry processing functionalities |br| for vector layers
-     - https://docs.qgis.org/3.22/en/docs/user_manual/processing_algs/gdal/vectorgeoprocessing.html#vector-geoprocessing
-   * - Raster layer clip
-     - Subsetting functionalities for |br| raster datasets
-     - https://docs.qgis.org/3.22/en/docs/training_manual/processing/cutting_merging.html?highlight=raster#clipping-and-merging-raster-layers
-   * - Raster calculator
-     - Computational tool for |br| raster pixel values
-     - https://docs.qgis.org/3.22/en/docs/user_manual/working_with_raster/raster_analysis.html#raster-calculator
-   * - Raster layer statistics
-     - Basic statistics extraction from |br| raster pixel values
-     - https://docs.qgis.org/3.22/en/docs/user_manual/processing_algs/qgis/rasteranalysis.html?highlight=raster%20stat#raster-layer-statistics
-   * - Zonal statistics
-     - Raster statistics spatially constrained |br| to overlapping vector layers
-     - https://docs.qgis.org/3.22/en/docs/user_manual/processing_algs/qgis/rasteranalysis.html?highlight=raster%20stat#zonal-statistics
-   
-.. |br| raw:: html
+	Diagram of components of the Earth Engine Code Editor at code.earthengine.google.com.
 
-  <br>
+.. IMPORTANT:: You can learn more about the GEE Code Editor ` here <https://developers.google.com/earth-engine/guides/playground>`_ .
+
+
