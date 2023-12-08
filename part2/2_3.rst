@@ -1,0 +1,20 @@
+Ready to use geospatial indicators
+====================================================
+
+The SDGs are highly dependent on geospatial information and Earth observations (EO) as the primary data for relating people to their location and place, and to measure where progress is, or is not being made. According to the UN GGIM, approximately 20% of the SDG indicators can be interpreted and measured either through direct use of geospatial data itself or through integration with other statistical data.
+
+Furthermore, the geospatial dimension enables analysis and identification of trends and patterns, making the SDGs actionable at more fine-grained levels. In transforming these data and statistics into information, policymakers can develop targeted policy action by generating knowledge and insights.
+
+`The SDG Transformation Center <https://sdgtransformationcenter.org/geospatial>`_ seeks to produce new original geospatial indicators for the SDGs that can fill in critical data gaps and better inform the current state of a set of Sustainable Development Goals at local and national scales in a more timely and granular fashion.
+
+There are several geospatial indicators at the SDG Transformation Center:
+- The 15-minute city: % of urban populations in walking distance to points of interest -*Indicators 11.2.1 and 11.7.1*
+- Global Road Density Index - useful for indicators related to SDG 15
+- Rural Access Index (RAI) - *Indicator 9.1.1* 
+
+
+.. rubric:: Footnotes
+
+.. [#f0] Radwan, T. M., Blackburn, G. A., Whyatt, J. D., & Atkinson, P. M. (2021). Global land cover trajectories and transitions. Scientific reports, 11(1), 1-16.
+.. [#f1] Ilie, C. M., Brovelli, M. A., & Coetzee, S. (2019). Monitoring SDG 9 with Global Open Data and Open Software–A Case Study from Rural Tanzania. Int. Arch. Photogramm. Remote Sens. Spatial Inf. Sci., XLII-2/W13, 1551-1558.
+.. [#f2] Mulligan, M., van Soesbergen, A., Hole, D. G., Brooks, T. M., Burke, S., & Hutton, J. (2020). Mapping nature's contribution to SDG 6 and implications for other SDGs at policy relevant scales. Remote Sensing of Environment, 239, 111671.
