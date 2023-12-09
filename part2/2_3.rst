@@ -8,9 +8,22 @@ Furthermore, the geospatial dimension enables analysis and identification of tre
 `The SDG Transformation Center <https://sdgtransformationcenter.org/geospatial>`_ seeks to produce new original geospatial indicators for the SDGs that can fill in critical data gaps and better inform the current state of a set of Sustainable Development Goals at local and national scales in a more timely and granular fashion.
 
 There are several geospatial indicators at the SDG Transformation Center:
-- The 15-minute city: % of urban populations in walking distance to points of interest -*Indicators 11.2.1 and 11.7.1*
+
+- The 15-minute city: % of urban populations in walking distance to points of interest - *Indicators 11.2.1 and 11.7.1*
+  
+  - `Methodology <https://sdgtransformationcenter.org/static/docs/methodologies/Accessibility-methodology.pdf>`_
+  
+  - `Explorer <https://sdsna.github.io/sdg-accessibility/viz/>`_
+
 - Global Road Density Index - useful for indicators related to SDG 15
+  
+  - `Explorer <https://sdsn.maps.arcgis.com/apps/instant/basic/index.html?appid=9bc83f0bd51b41d1aeb3194c62cf9138>`_
+
 - Rural Access Index (RAI) - *Indicator 9.1.1* 
+
+ - `Methodology <https://sdgtransformationcenter.org/static/docs/methodologies/RAI-methodology.pdf>`_
+
+ - `Explorer <https://sdsn.maps.arcgis.com/apps/instant/basic/index.html?appid=b4cfee06323546ba99348dd9803e601d>`_
 
 
 .. rubric:: Footnotes
