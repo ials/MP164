@@ -31,6 +31,6 @@ In view of the above, this course promotes the use of global open geospatial dat
 
 .. important:: This course was sponsored by the `SDGnexus Network <https://www.uni-giessen.de/de/fbz/zentren/zeu/sdgnexus>`_.
 
-.. note:: This course was inspired by the ISPRS project "Capacity Building for GIS-based SDG Indicator Analysis with Global High-resolution Land Cover Datasets project" (Oxoli et al., 2022). Although a lot of material is borrowwed from it, this course uses spatial computing platforms in the cloud rather than locally installed software. 
+.. note:: This course was inspired by the ISPRS project "Capacity Building for GIS-based SDG Indicator Analysis with Global High-resolution Land Cover Datasets" (Oxoli et al., 2022). Although several materials are borrowed from it, this course uses spatial computing platforms in the cloud rather than locally installed software. 
 
 License `Creative Commons Attribution 4.0 License (CC BY 4.0) <https://creativecommons.org/licenses/by/4.0/>`_

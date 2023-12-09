@@ -21,9 +21,9 @@ There are several geospatial indicators at the SDG Transformation Center:
 
 - Rural Access Index (RAI) - *Indicator 9.1.1* 
 
- - `Methodology <https://sdgtransformationcenter.org/static/docs/methodologies/RAI-methodology.pdf>`_
+  - `Methodology <https://sdgtransformationcenter.org/static/docs/methodologies/RAI-methodology.pdf>`_
 
- - `Explorer <https://sdsn.maps.arcgis.com/apps/instant/basic/index.html?appid=b4cfee06323546ba99348dd9803e601d>`_
+  - `Explorer <https://sdsn.maps.arcgis.com/apps/instant/basic/index.html?appid=b4cfee06323546ba99348dd9803e601d>`_
 
 
 .. rubric:: Footnotes
