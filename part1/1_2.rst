@@ -1,3 +1,5 @@
+.. _1.2:
+
 Measuring progress towards the SDGs [#f0]_
 ==========================================
 

@@ -1,3 +1,5 @@
+.. _1.3:
+
 Geospatial data and technologies for SDGs
 ==========================================
 
