@@ -1,4 +1,4 @@
-.. _2.1:
+.. _2.2:
 
 Global High-resolution Land Cover datasets
 ==========================================

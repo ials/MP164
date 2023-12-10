@@ -4,7 +4,7 @@ What is geospatial data?
 ========================
 
 
-Geospatial data, is any data that contains information about a specific location. In layman’s terms, spatial data is data about location. You may not realize it, but you’re already familiar with spatial data because you interact with it whenever you open your map application to look for the nearest gas station or to see the full landscape of cafes nearby. 
+**Geospatial data, is any data that contains information about a specific location**. In layman’s terms, spatial data is data about location. You may not realize it, but you’re already familiar with spatial data because you interact with it whenever you open your map application to look for the nearest gas station or to see the full landscape of cafes nearby. 
 
 The quantity of data that relates to location is overwhelming, but becomes easier to digest when broken down into the two most commonly used spatial data types.  
 
@@ -14,9 +14,11 @@ The two primary spatial data types are Geometric and Geographic data:
 
 - Geometric data is data that can be mapped to a two-dimensional flat surface. A good example of geometric data would be the floor plan of a building.  
 
-Information is data that has been selected or created in response to a question. For example, the location of a building or a route is data, until it is needed to dispatch an ambulance in response to an emergency. When used to inform those who need to know, "Where is the emergency, and what's the fastest route between here and there?" the data are transformed into information. The transformation involves the ability to ask the right kind of question, and the ability to retrieve existing data--or to generate new data from the old--that help people answer the question. The more complex the question and the more locations involved, the harder it becomes to produce timely information with paper maps alone.
+**Information is data that has been selected or created in response to a question**. For example, the location of a building or a route is data, until it is needed to dispatch an ambulance in response to an emergency. When used to inform those who need to know, "Where is the emergency, and what's the fastest route between here and there?" the data are transformed into information. The transformation involves the ability to ask the right kind of question, and the ability to retrieve existing data--or to generate new data from the old--that help people answer the question. The more complex the question and the more locations involved, the harder it becomes to produce timely information with paper maps alone.
 
-Are spatial data somehow special data? [#f0]_ points out several distinguishing properties of geographic information:
+*Are spatial data somehow special data?* 
+
+Goodchild (1992) points out several distinguishing properties of geographic information [#f0]_:
 
 
 - `Geographic data represent spatial locations and non-spatial attributes measured *at certain times* <https://www.e-education.psu.edu/natureofgeoinfo/c1_p15.html>`_
@@ -25,8 +27,6 @@ Are spatial data somehow special data? [#f0]_ points out several distinguishing 
 .. figure:: /img/2.1/2.1.1.png
 
 	The dynamic nature of geographic phenomena complicates their representation [#f0]_. 
-
-- Geographic space is nearly spherical.
 
 - `Geographic space is continuous <https://www.e-education.psu.edu/natureofgeoinfo/c1_p16.html>`_
 
@@ -50,7 +50,7 @@ Are spatial data somehow special data? [#f0]_ points out several distinguishing 
   Near things are more related than distant things. (Tobler, W.) [#f2]_.
 
 
-Further reading: `Spatial Data is Messy – How to Make Peace with It <https://dataliteracy.com/spatial-data-is-messy-how-to-make-peace-with-it/>`_` [#f3]_.
+Further reading: `Spatial Data is Messy – How to Make Peace with It <https://dataliteracy.com/spatial-data-is-messy-how-to-make-peace-with-it/>`_ [#f3]_.
 
 .. rubric:: Footnotes
 
