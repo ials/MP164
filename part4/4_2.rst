@@ -46,4 +46,13 @@ https://wocatapps.users.earthengine.app/view/ldn-colombia
 https://wocatapps.users.earthengine.app/view/lpd-comparison-col
 
 
+ `"LDN paper"  <https://onlinelibrary.wiley.com/doi/full/10.1002/ldr.4645>`_  (:numref:`4.4.3`).
+
+
+.. _4.4.3:
+.. figure:: /img/4.4/4.4.3.png
+	:align: center
+	:width: 700px
+
+	LDN paper
 
