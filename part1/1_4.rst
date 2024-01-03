@@ -7,8 +7,8 @@ Despite the development of the Global SDG framework was originally based on trad
 
 Key global `geospatial data <https://www.heavy.ai/learn/geospatial>`_ products that cover major thematic areas of the biosphere and society (e.g. land cover, vegetation productivity, forests, wetlands, surface water, human settlements, etc.) are strongly supporting the methodological development and measurement of a number of SDG indicators. Generally, national or local geospatial data provide (where available) a higher spatial and temporal resolution than coarser global products and - in turn - better capabilities for accurate monitoring of SDG indicators. However, the uneven availability of such data often prevents consistent assessment of SDGs' progress across countries worldwide. In this context, the use of open global geospatial datasets represents a quick, efficient and cost-effective solution to provide a first comprehensive assessment before national data is produced and analyzed [#f3]_.
 
-.. _1.3.1:
-.. figure:: /img/1.3/1.3.1.png
+.. _1.4.1:
+.. figure:: /img/1.4/1.4.1.png
 
 	Utilization of geospatial data for SDGs (Modified from: Sustainable Development Knowledge Platform) [#f4]_.
 
