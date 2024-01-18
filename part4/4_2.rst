@@ -10,8 +10,8 @@ The World Overview of Conservation Approaches and Technologies (WOCAT) is a glob
 Launched in 1992,  WOCAT establishes an innovative space for sharing and scaling good practices to address land degradation, climate change, and biodiversity loss. This facilitates local, national, regional and global knowledge sharing and analysis of which good practices work where, how and why, and what are their costs and benefits. 
 
 
-WOCAT Apps for Convergence of Evidence
-======================================
+**WOCAT Apps for Convergence of Evidence**
+
 
 One of the core challenges to achieve **Land Degradation Neutrality (LDN)** and **Integrated Land Use Planning (ILUP)** is to spatially identify, and strategically prioritise, the areas to implement actions to avoid, reduce and reverse land degradation. 
 
@@ -35,8 +35,9 @@ The app's code is shared as a repository at Earth Engine and can be adapted to a
 
 https://wocatapps.users.earthengine.app/view/ldn-colombia
 
-WOCAT Land Cover Transition Analysis Apps
-=========================================
+**WOCAT Land Cover Transition Analysis Apps**
+
+
 
  `"LC Transition Analysis"  <https://www.wocat.net/en/ldn/wocatapps/>`_  (:numref:`4.4.2`).
 

@@ -1,11 +1,15 @@
 Accesibility-related  SDG indicators [7.1.1] [9.1.1] [11.2.1] [11.7.1]
-======================================================================================
+======================================================================
 
 This exercise's purpose is to show how to compute several SDG indicators which measure people access to a number of social servcies.
 
 
-SDG Indicator 7.1.1: Access to Electricity, 2023 Release (2020 – 2022). (:numref:`4.3.1`)
+**SDG Indicator 7.1.1: Access to Electricity, 2023 Release (2020 – 2022)** 
 
+
+This  indicator  refers to the proportion of population with access to electricity. This is expressed in percentage
+figures and is disaggregated by total, urban and rural access rates per country, as well as by UN regional
+and global classifications (:numref:`4.3.1`). 
 
 .. _4.3.1:
 .. figure:: /img/4.3/4.3.1.png
@@ -15,19 +19,24 @@ SDG Indicator 7.1.1: Access to Electricity, 2023 Release (2020 – 2022). (:
 	https://sedac.ciesin.columbia.edu/data/set/sdgi-7-1-1-access-electricity-2023
 
 
-SDG Indicator 9.1.1: The Rural Access Index (RAI), 2023 Release (2015 – 2022)
+**SDG Indicator 9.1.1: The Rural Access Index (RAI), 2023 Release (2015 – 2022)**
 
-SDG  9.1.1 is defined as the share of a country's rural population living within 2 km of an all-season road.(:numref:`4.3.2`)
+
+This indicator is defined as the share of a country's rural population living within 2 km of an all-season road (:numref:`4.3.2`).
 
 .. _4.3.2:
 .. figure:: /img/4.3/4.3.2.png
 	:align: center
 	:width: 400px
 
-	https://sedac.ciesin.columbia.edu/data/set/sdgi-9-1-1-rai-2023 (:numref:`4.3.3`)
+	https://sedac.ciesin.columbia.edu/data/set/sdgi-9-1-1-rai-2023 
 
 
-SDG Indicator 11.2.1: Urban Access to Public Transport, 2023 Release (2015 – 2022) 
+**SDG Indicator 11.2.1: Urban Access to Public Transport, 2023 Release (2015 – 2022)**
+
+
+This indicator measures the proportion of the population in a city that has convenient access to public transport (:numref:`4.3.3`).
+
 
 .. _4.3.3:
 .. figure:: /img/4.3/4.3.3.png
@@ -37,8 +46,10 @@ SDG Indicator 11.2.1: Urban Access to Public Transport, 2023 Release (2015 –
 	https://sedac.ciesin.columbia.edu/data/set/sdgi-11-2-1-urban-access-public-transport-2023
 
 
-SDG Indicator 11.7.1: Urban Public Space, Availability and Access, 2023 Release (2015 – 2022) (:numref:`4.3.4`)
+SDG Indicator 11.7.1: Urban Public Space, Availability and Access, 2023 Release (2015 – 2022) 
+=============================================================================================
 
+This indicator measures the share of land allocated to public spaces and the total population with access of these spaces by age, gender and disability (:numref:`4.3.4`).
 
 .. _4.3.4:
 .. figure:: /img/4.3/4.3.4.png
