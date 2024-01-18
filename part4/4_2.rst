@@ -51,8 +51,10 @@ https://wocatapps.users.earthengine.app/view/ldn-colombia
 
 https://wocatapps.users.earthengine.app/view/lpd-comparison-col
 
+**Further reading** 
 
- `"LDN paper"  <https://onlinelibrary.wiley.com/doi/full/10.1002/ldr.4645>`_  (:numref:`4.4.3`).
+
+ `"An interactive system to map land degradation"  <https://onlinelibrary.wiley.com/doi/full/10.1002/ldr.4645>`_  (:numref:`4.4.3`).
 
 
 .. _4.4.3:
