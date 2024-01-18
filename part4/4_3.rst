@@ -1,8 +1,11 @@
 Accesibility-related  SDG indicators [7.1.1] [9.1.1] [11.2.1] [11.7.1]
 ======================================================================
 
-This exercise's purpose is to show how to compute several SDG indicators which measure people access to a number of social servcies.
+This exercise's purpose is to show how to compute several SDG indicators which measure people access to a number of social servcies. 
 
+The *Socioeconomic Data and Applications Center* (SEDAC) provides, to registered users, geospatial datasets both in geodatabase format and shapefile format. 
+
+After downloading the data, users need a GIS software tool to visualize and analyze the data.
 
 **SDG Indicator 7.1.1: Access to Electricity, 2023 Release (2020 – 2022)** 
 
@@ -46,8 +49,8 @@ This indicator measures the proportion of the population in a city that has conv
 	https://sedac.ciesin.columbia.edu/data/set/sdgi-11-2-1-urban-access-public-transport-2023
 
 
-SDG Indicator 11.7.1: Urban Public Space, Availability and Access, 2023 Release (2015 – 2022) 
-=============================================================================================
+**SDG Indicator 11.7.1: Urban Public Space, Availability and Access, 2023 Release (2015 – 2022)**
+
 
 This indicator measures the share of land allocated to public spaces and the total population with access of these spaces by age, gender and disability (:numref:`4.3.4`).
 
