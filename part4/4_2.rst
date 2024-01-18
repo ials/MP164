@@ -1,12 +1,17 @@
 .. _4.2:
 
 Land Degradation Neutrality [15.3]
-==================================================================
+==================================
 
-In this section you will learn  the methodology to map Land degradation and estimate SDG indicator 15.3.1 (proportion of land degraded) proposed by UNCCD. 
+In this section we will learn a method to map *Land Degradation* and estimate the *SDG indicator 15.3.1* (proportion of land degraded) proposed by UNCCD. 
+
+The World Overview of Conservation Approaches and Technologies (WOCAT) is a global network on Sustainable Land Management (SLM) that promotes the documentation, sharing and use of knowledge to support adaptation, innovation and decision-making in SLM.
+
+Launched in 1992,  WOCAT establishes an innovative space for sharing and scaling good practices to address land degradation, climate change, and biodiversity loss. This facilitates local, national, regional and global knowledge sharing and analysis of which good practices work where, how and why, and what are their costs and benefits. 
 
 
-## WOCAT Apps for Convergence of Evidence
+WOCAT Apps for Convergence of Evidence
+======================================
 
 One of the core challenges to achieve **Land Degradation Neutrality (LDN)** and **Integrated Land Use Planning (ILUP)** is to spatially identify, and strategically prioritise, the areas to implement actions to avoid, reduce and reverse land degradation. 
 
@@ -16,7 +21,7 @@ WOCAT Apps are spatially explicit interactive tools to integrate indicators that
 
 Each app is different and has a different purpose, datasets and functionalities. Anyone can use them to easily compare results and obtain statistics at different spatial scales and landscapes. Many include a multi-criteria module to identify areas with specific characteristics to prioritise different types of interventions.
 
-The app´s code is shared as a repository at Earth Engine and can be adapted to and used by other countries and regions. See our paper (Teich et al. 2023) for more information and just click on the apps below to start using them!
+The app's code is shared as a repository at Earth Engine and can be adapted to and used by other countries and regions. See our paper (Teich et al. 2023) for more information and just click on the apps below to start using them!
 
 
  `"LDN Decision Support Systems"  <https://www.wocat.net/en/ldn/wocatapps/>`_  (:numref:`4.4.1`).
@@ -30,8 +35,8 @@ The app´s code is shared as a repository at Earth Engine and can be adapted to 
 
 https://wocatapps.users.earthengine.app/view/ldn-colombia
 
-## Land Cover Transition Analysis Apps
-
+WOCAT Land Cover Transition Analysis Apps
+=========================================
 
  `"LC Transition Analysis"  <https://www.wocat.net/en/ldn/wocatapps/>`_  (:numref:`4.4.2`).
 
