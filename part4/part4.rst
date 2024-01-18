@@ -12,8 +12,7 @@ Case studies
     ./4_3
     ./4_4
 
-.. Note:: A QGIS Version of the case studies can be found [here](https://isprs-gis-sdg.readthedocs.io/en/latest/part4/part4.html).
-   In that case, the data can be downloaded from https://doi.org/10.5281/zenodo.7152401.
+.. Note:: A QGIS Version of the case studies can be found [here](https://isprs-gis-sdg.readthedocs.io/en/latest/part4/part4.html). In that case, the data can be downloaded from https://doi.org/10.5281/zenodo.7152401.
 
 
 
